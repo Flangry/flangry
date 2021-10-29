@@ -1,3 +1,3 @@
-#Look at my stats and leave..
+# Look at my stats and leave..
 
 ![Flangry's GitHub stats](https://github-readme-stats.vercel.app/api?username=flangry&show_icons=true&theme=onedark&count_private=true) 
