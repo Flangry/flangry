@@ -2,5 +2,4 @@
 
 ![Flangry's GitHub stats](https://github-readme-stats.vercel.app/api?username=flangry&show_icons=true&theme=onedark&count_private=true) 
 
-if your gay fuck off
-
+I work in private repos
